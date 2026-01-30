@@ -17,5 +17,5 @@ Inclua todas as referências (livros, artigos, sites, etc.) utilizadas no desenv
 - SUTHERLAND, Jeffrey Victor; SUTHERLAND, J. J. **Scrum:** a arte de fazer o dobro do trabalho na metade do tempo. Rio de Janeiro, RJ: Sextante, 2019. 254 p.
 
 > **Links úteis**:
-> - [Padrão PUC Minas de normalização ABNT](http://portal.pucminas.br/biblioteca/documentos/GUIA-COMPLETO-ABNT-Elaborar-formatar-trabalho-cientificoNOVO.pdf)
+> - [Padrão PUC Minas de normalização ABNT](https://www.pucminas.br/biblioteca/DocumentoBiblioteca/ABNT-GUIA-COMPLETO-Elaborar-formatar-trabalho-cientifico.pdf)
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/)
